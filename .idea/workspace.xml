@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="277b711c-2d66-4627-8e93-1bbc90b21288" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/stage2/task1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stage2/task2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +67,8 @@
       <workItem from="1740313356046" duration="1450000" />
       <workItem from="1740314936178" duration="9732000" />
       <workItem from="1740390033536" duration="8571000" />
-      <workItem from="1740423545765" duration="2714000" />
+      <workItem from="1740423545765" duration="3720000" />
+      <workItem from="1740469554713" duration="311000" />
     </task>
     <servers />
   </component>
@@ -88,6 +89,6 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_tasks$task2.coverage" NAME="task2 Coverage Results" MODIFIED="1740334099998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stage1" />
     <SUITE FILE_PATH="coverage/python_tasks$task3.coverage" NAME="task3 Coverage Results" MODIFIED="1740396264299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stage1" />
-    <SUITE FILE_PATH="coverage/python_tasks$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1740426216495" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stage2" />
+    <SUITE FILE_PATH="coverage/python_tasks$task1.coverage" NAME="task1 Coverage Results" MODIFIED="1740426559129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/stage2" />
   </component>
 </project>
